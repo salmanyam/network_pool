@@ -35,7 +35,7 @@ class SplashScreenMain {
   }
 
   private void splashScreenInit() {
-    ImageIcon myImage = new ImageIcon(getClass().getResource("spl.png"));
+    ImageIcon myImage = new ImageIcon(getClass().getResource("spl.PNG"));
     screen = new SplashScreen(myImage);
     screen.setLocationRelativeTo(null);
     screen.setProgressMax(100);
