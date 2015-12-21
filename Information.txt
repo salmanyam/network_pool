@@ -1,0 +1,1 @@
+Queball radius: 16, diameter: 32
